@@ -4,7 +4,7 @@
 	"metadata": {
 		"mapbox:autocomposite": true,
 		"mapbox:type": "default",
-
+		"mapbox:china": "cn",
 		"mapbox:origin": "streets-zh-cn-v1",
 		"mapbox:groups": {
 			"1444934828655.3389": {
@@ -131,6 +131,8 @@
 			"type": "vector"
 		}
 	},
+	"sprite": "mapbox://sprites/mapbox/streets-zh-v1",
+	"glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
 	"layers": [{
 		"id": "background",
 		"type": "background",
