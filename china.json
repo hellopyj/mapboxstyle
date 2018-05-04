@@ -4,9 +4,8 @@
 	"metadata": {
 		"mapbox:autocomposite": true,
 		"mapbox:type": "default",
-		"mapbox:china": "cn",
+
 		"mapbox:origin": "streets-zh-cn-v1",
-		"mapbox:wpi": "<a href='http://www.emapgo.com.cn/' target='_blank'>&copy; eMapgo - GS (2018) 336 号</a>",
 		"mapbox:groups": {
 			"1444934828655.3389": {
 				"name": "Aeroways",
@@ -132,7 +131,6 @@
 			"type": "vector"
 		}
 	},
-	"sprite": "mapbox://sprites/mapbox/streets-zh-v1",
 	"layers": [{
 		"id": "background",
 		"type": "background",
